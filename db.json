@@ -1,0 +1,24 @@
+{
+    "copys": [{
+        "id": 1,
+        "title": "Welcome Message",
+        "text": "Dear [Name],\n\nWelcome to our community! We're thrilled to have you on board. Feel free to explore and reach out if you have any questions.\n\nBest regards,\nThe [Your Company] Team"
+    }, {
+        "id": 2,
+        "title": "Registration Confirmation",
+        "text": "Hello [Name],\n\nThank you for registering with us. Your account is now active. If you need any assistance, please don't hesitate to contact our support team.\n\nRegards,\nThe [Your Company] Team"
+    }, {
+        "id": 3,
+        "title": "Event Reminder",
+        "text": "Hi [Name],\n\nJust a friendly reminder about the upcoming event on [Date] at [Location]. We look forward to seeing you there!\n\nBest,\nThe[Your Company] Team "
+    }, {
+        "id": 4,
+        "title": "Thank You for Your Purchase",
+        "text": "Dear [Name],\n\nThank you for your recent purchase. We appreciate your business. If you have any questions or concerns about your order, please let us know.\n\nSincerely,\nThe[Your Company] Team "
+    }, {
+        "id": 5,
+        "title": "Customer Satisfaction Survey",
+        "text": "Hello [Name],\n\nWe value your opinion! Please take a moment to complete our customer satisfaction survey and help us improve our services.\n\nSurvey Link: [Survey Link]\n\nThank you,\nThe[Your Company] Team "
+
+    }]
+}
